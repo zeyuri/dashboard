@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Zé Yuri <jozeyuri@gmail.com> (https://zeyuri.me)",
   "license": "MIT",
+  "scripts": {
+    "build": "gatsby build"
+  },
   "dependencies": {
     "@reach/dialog": "^0.10.0",
     "@reach/tabs": "^0.10.0",
